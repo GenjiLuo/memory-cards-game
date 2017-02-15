@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1487132520,
+	"version": 1487133774,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,7 @@
 		"images/grayscaler-sheet0.png",
 		"images/logicui-sheet0.png",
 		"images/background-sheet0.png",
+		"images/background-sheet1.png",
 		"media/negative_2.m4a",
 		"media/negative_2.ogg",
 		"media/positive.m4a",
