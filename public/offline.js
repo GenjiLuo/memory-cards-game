@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1487134091,
+	"version": 1487208238,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,11 @@
 		"images/logicui-sheet0.png",
 		"images/background-sheet0.png",
 		"images/background-sheet1.png",
+		"images/lennytub-sheet0.png",
+		"images/lennytub-sheet1.png",
+		"images/loaderbar.png",
+		"images/buttonloadingdone-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/negative_2.m4a",
 		"media/negative_2.ogg",
 		"media/positive.m4a",
