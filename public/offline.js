@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1487208611,
+	"version": 1488447323,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,8 @@
 		"media/buttonclick.ogg",
 		"media/dealing-card.m4a",
 		"media/dealing-card.ogg",
+		"media/applause.m4a",
+		"media/applause.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
